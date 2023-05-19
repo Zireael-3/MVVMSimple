@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 
 	func initialState() {
 		label.textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
-		label.text = ""
+		label.text = " "
 	}
 
 	override func viewDidLoad() {
